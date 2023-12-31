@@ -24,7 +24,7 @@ env:
 
 jobs:
   integration:
-    uses: GH_Q3_challenge/.github/workflows/python-app.yml@main
+    uses: kasemAlem/GH_Q3_challenge/.github/workflows/python-app.yml@main
     permissions:
       contents: read
     
